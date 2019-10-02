@@ -1,0 +1,1025 @@
+{
+    "head": {
+        "vars": [
+            "imdbID"
+        ]
+    }, 
+    "results": {
+        "bindings": [
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt2379713"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0317919"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0053779"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0046366"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0193392"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0064169"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0031476"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0049009"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0058436"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0084471"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0070554"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0053411"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0051941"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt4425200"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt1961175"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0028905"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0041925"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0043520"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0056501"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0073286"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0114368"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0150415"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt1866205"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0048039"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt3152602"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0074520"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0129950"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0043777"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0057439"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0084131"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0125747"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0139877"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0095633"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0046518"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt2767948"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt3341170"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt2612536"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt6899302"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt2467480"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0167344"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0197800"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt3438354"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt4246364"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0031660"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt2182241"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0076839"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt3182590"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0268935"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0119948"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0048618"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0060813"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0198750"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0392494"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0086240"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0122731"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0162632"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt2358891"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0166544"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt1523479"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0051838"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0060746"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt3229768"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0074824"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0049399"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0052921"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0144154"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0047339"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0140550"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0042062"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt3172520"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt2341574"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0102164"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0053780"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0068935"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0349903"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0048475"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0050716"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0049281"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt1639392"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0074086"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0046521"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0258463"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt1924396"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0074252"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0054242"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0099296"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0063599"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0317965"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0046250"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0065761"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0053570"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0096764"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0090055"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0079845"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0077459"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt1364481"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0048207"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0082203"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0083676"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0067481"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0057171"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0489099"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0065662"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0038890"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0114294"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0069235"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0049226"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0058556"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0082073"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0069191"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0110570"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0076085"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0071486"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0091537"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0054814"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0080719"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0049634"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0049866"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0046292"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0064718"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0120731"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0163802"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0055535"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0116279"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0118799"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt1859650"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0328589"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0808151"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt1046997"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0050181"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0073633"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt1185416"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0062898"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0456041"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0772187"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0063650"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0115926"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0043058"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0048981"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0044000"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0091113"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0762121"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0066735"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0075178"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt1846487"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0075793"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0140379"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0078012"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0041974"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0050691"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0039682"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0076801"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0087208"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0069697"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0317198"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0038970"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0109382"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0052216"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0049839"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0090944"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0062370"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0047870"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0167856"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0053185"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt2343793"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0035709"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt0083680"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt2262952"
+                }
+            }, 
+            {
+                "imdbID": {
+                    "type": "literal", 
+                    "value": "tt2573216"
+                }
+            }
+        ]
+    }
+}
